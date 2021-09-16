@@ -1,5 +1,5 @@
-project_name: "marketplace-google-ads-config-CA"
-# project_name: "block-google-ads-transfer-ca"
+# project_name: "marketplace-google-ads-config-CA"
+project_name: "block-google-ads-transfer-ca"
 
 constant: GOOGLE_ADS_SCHEMA {
   value: "adwords_v201609"
